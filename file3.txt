@@ -1,2 +1,3 @@
 I am inside the new branch
 New master1 branch
+New content to master1
